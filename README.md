@@ -6,6 +6,8 @@
 
 ![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=xDaniel-dev&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 ### Tecnologias que ultilizo
 
 <div stayle='display: inline_block'>
